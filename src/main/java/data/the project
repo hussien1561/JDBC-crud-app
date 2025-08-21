@@ -1,0 +1,13 @@
+
+
+
+read all data from the data base
+
+table service    //  id , name , price
+
+read all the services
+
+
+create interface       dao
+create a class         service dao
+
